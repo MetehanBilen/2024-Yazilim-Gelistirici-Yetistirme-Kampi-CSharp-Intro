@@ -39,4 +39,3 @@ for (int i = 0; i < courses2.Length; i++)
 }
 
 
-Console.WriteLine("Kodlar bitti.");
